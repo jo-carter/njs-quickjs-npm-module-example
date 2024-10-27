@@ -1,0 +1,1 @@
+# njs-quickjs-npm-module-example
