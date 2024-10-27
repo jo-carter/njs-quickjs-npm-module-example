@@ -1,3 +1,5 @@
+/modules
+*bundle.js
 # Logs
 logs
 *.log
